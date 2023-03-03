@@ -27,9 +27,11 @@ function App() {
           <MdRefresh />
         </button>
 
-        <blockquote className="text-3xl">
+        <blockquote className="text-4xl">
           "{data.sentence}"
-          <cite className="mt-5 flex justify-end">- {data.character.name}</cite>
+          <cite className="mt-5 flex justify-end text-2xl">
+            - {data.character.name}
+          </cite>
         </blockquote>
       </div>
     </div>
