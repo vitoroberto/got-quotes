@@ -19,7 +19,7 @@ This project was developed to study the following technologies:
 
 - [ReactJS](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
-- [TanStack](https://tanstack.com/)
+- [TanStack Query (formerly known as React Query)](https://tanstack.com/query/latest)
 - [Axios](https://axios-http.com/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [React-Icons](https://react-icons.github.io/react-icons/)
